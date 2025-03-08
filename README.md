@@ -1,5 +1,20 @@
 # Real-time-project-using-API
 
+# Sales and Profit Analysis
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: MANDALA MUKESH
+
+**INTERN ID**: CT08SHA
+
+**DOMAIN**: POWER-BI
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTHOSH
+
+
 # Power BI Real-Time Weather Dashboard Using OpenWeatherMap API
 
 ## Overview
